@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/wos/WOS23/src/snake/build",
+  "command": "/usr/bin/gcc   -g   -o CMakeFiles/snake.dir/snake.c.o   -c /home/wos/WOS23/src/snake/snake.c",
+  "file": "/home/wos/WOS23/src/snake/snake.c"
+},
+{
+  "directory": "/home/wos/WOS23/src/snake/build",
+  "command": "/usr/bin/gcc   -g   -o CMakeFiles/snake.dir/map.c.o   -c /home/wos/WOS23/src/snake/map.c",
+  "file": "/home/wos/WOS23/src/snake/map.c"
+}
+]

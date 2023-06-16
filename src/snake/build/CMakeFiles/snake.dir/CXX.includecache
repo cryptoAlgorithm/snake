@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wos/WOS23/src/snake/Configuration.h
+
+/home/wos/WOS23/src/snake/map.h
+Configuration.h
+/home/wos/WOS23/src/snake/Configuration.h
+
+/home/wos/WOS23/src/snake/snake.cpp
+stdio.h
+-
+stdint.h
+-
+ctime
+-
+random
+-
+snake.h
+/home/wos/WOS23/src/snake/snake.h
+map.h
+/home/wos/WOS23/src/snake/map.h
+Configuration.h
+/home/wos/WOS23/src/snake/Configuration.h
+
+/home/wos/WOS23/src/snake/snake.h
+ncurses.h
+-
+termios.h
+-
+unistd.h
+-
+fcntl.h
+-
+

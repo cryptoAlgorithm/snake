@@ -1,0 +1,3 @@
+/home/wos/WOS23/src/snake/build/CMakeFiles/rebuild_cache.dir
+/home/wos/WOS23/src/snake/build/CMakeFiles/edit_cache.dir
+/home/wos/WOS23/src/snake/build/CMakeFiles/snake.dir

@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stddef.h": "c",
+        "configuration.h": "c",
+        "*.tcc": "c",
+        "fstream": "c",
+        "snake.h": "c",
+        "ncurses.h": "c",
+        "fcntl.h": "c"
+    }
+}

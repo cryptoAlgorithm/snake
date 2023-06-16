@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/snake.dir/snake.c.o CMakeFiles/snake.dir/map.c.o  -o snake  -lcurses /usr/lib/x86_64-linux-gnu/libform.so 
